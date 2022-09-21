@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Order {\n  constructor() {\n    this.customer = {\n      name: \"\",\n      address: \"\",\n      phoneNumber: \"\",\n      email: \"\",\n      username: \"\"\n    };\n    this.orderedProducts = [];\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
